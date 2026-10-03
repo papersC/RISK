@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+# Secrets / local config
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+# Data and large artefacts
+data/raw/
+*.pt
+*.pth
+*.ckpt
+# OS / LaTeX noise
+.DS_Store
+Thumbs.db
+*.aux
+*.log
+

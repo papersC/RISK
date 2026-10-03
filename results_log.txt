@@ -1,0 +1,12 @@
+val_dense: 100 runs in 10s
+dense target 0.3058333333333333 theta 0.1
+val_mixed: 100 runs in 95s
+mixed target 0.6758333333333334 theta 0.08
+val_moe: 100 runs in 211s
+moe target 0.3816666666666667 theta 0.12
+e1: 700 runs in 1780s
+e2: 480 runs in 865s
+e3: 156 runs in 604s
+e5: 60 runs in 314s
+e6: 192 runs in 276s
+e4 done
